@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/kerbal-cheat-logo.png" alt="Kerbal Space Program Cheat Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=KERBAL+SPACE+PROGRAM+CHEAT;OP+INFINITE+FUEL+2026;GODMODE+NO+CRASH;INFINITE+MONEY;SPEED+HACK;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
